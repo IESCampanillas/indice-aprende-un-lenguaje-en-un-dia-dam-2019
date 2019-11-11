@@ -6,6 +6,6 @@ Enunciado del ejercicio: <https://github.com/LuisJoseSanchez/aprende-un-lenguaje
 
 * [EQUIPO NOMBRE_EQUIPO - LENGUAJE]()
 
-* [Los caballeros de la mesa cuadrada - Python(https://github.com/BeTheVal/aprende-un-lenguaje-en-un-dia)
+* [Los caballeros de la mesa cuadrada - Python](https://github.com/BeTheVal/aprende-un-lenguaje-en-un-dia)
 
 :star: Si te ha gustado este ejercicio, dale una estrellita al [repositorio original](https://github.com/LuisJoseSanchez/aprende-un-lenguaje-en-un-dia) y a este repo.
