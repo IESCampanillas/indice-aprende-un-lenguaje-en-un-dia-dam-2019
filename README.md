@@ -9,5 +9,5 @@ Enunciado del ejercicio: <https://github.com/LuisJoseSanchez/aprende-un-lenguaje
 * [Los Gigoló-rces Del Guadalhorce - Basic](https://github.com/VictorGallardo/aprende-un-lenguaje-en-un-dia)
 * [$$ Los Reye$ del ParQue 🖥🏆 - Typescript](https://github.com/ismaelpacheco13/aprende-un-lenguaje-en-un-dia)
 * [Team NameNotFoundException - C++](https://github.com/Frankcs96/aprende-un-lenguaje-en-un-dia)
-
+[The_Best_Duo](https://github.com/sergiotoscanodiaz/The_Best_Duo-Javascript)
 :star: Si te ha gustado este ejercicio, dale una estrellita al [repositorio original](https://github.com/LuisJoseSanchez/aprende-un-lenguaje-en-un-dia) y a este repo.
